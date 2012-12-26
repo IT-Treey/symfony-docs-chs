@@ -4,7 +4,7 @@ Symfony2中文文档
 快速入门
 --------
 
-通过了解基础概念，:doc:`快速了解Symfony2 <quick_tour/index>`\ ：
+通过了解基础概念，\ :doc:`quick_tour/index`\ ：
 
 .. toctree::
     :hidden:
@@ -36,7 +36,7 @@ Symfony2中文文档
 
     cookbook/index
 
-Read the :doc:`Cookbook </cookbook/index>`.
+阅读\ :doc:`手册 </cookbook/index>`\ 。
 
 组件
 ----
@@ -46,12 +46,12 @@ Read the :doc:`Cookbook </cookbook/index>`.
 
     components/index
 
-Read the :doc:`Components </components/index>` documentation.
+阅读\ :doc:`组件部分 </components/index>`\ 的文档。
 
 参考
 ----
 
-Get answers quickly with reference documents:
+了解常见问题：
 
 .. toctree::
     :hidden:
@@ -63,7 +63,7 @@ Get answers quickly with reference documents:
 代码包
 ------
 
-The Symfony Standard Edition comes with some bundles. Learn more about them:
+了解Symfony 2标准版默认包含的代码包；
 
 .. toctree::
     :hidden:
@@ -75,7 +75,7 @@ The Symfony Standard Edition comes with some bundles. Learn more about them:
 参与
 ----
 
-Contribute to Symfony2:
+为Symfony 2做出贡献：
 
 .. toctree::
     :hidden:
